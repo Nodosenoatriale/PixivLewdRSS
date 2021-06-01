@@ -26,3 +26,6 @@ remember to keep safe your session id **DONT SHARE YOUR SESSION ID**
 
 #### Note
 for tag i would recommend you using japanese hashtag rather than latin
+
+
+If you send the code live with glitch.com, create a file start.sh with the run command showed above (substituting your data).
